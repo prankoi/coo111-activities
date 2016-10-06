@@ -1,0 +1,16 @@
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\bin\Debug\MidtermNamespace.exe
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\bin\Debug\MidtermNamespace.pdb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\bin\Debug\MidtermNamespace.xml
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MainWindow.baml
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MainWindow.g.vb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\Application.g.vb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace_MarkupCompile.cache
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.g.resources
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.Resources.resources
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.vbproj.GenerateResource.Cache
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.exe
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.xml
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.pdb
+C:\Users\Student\Documents\OANAM\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.exe
+C:\Users\Student\Documents\OANAM\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.xml
+C:\Users\Student\Documents\OANAM\MidtermNamespace\MidtermNamespace\obj\x86\Debug\MidtermNamespace.pdb
