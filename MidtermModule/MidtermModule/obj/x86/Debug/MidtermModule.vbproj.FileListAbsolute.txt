@@ -1,0 +1,26 @@
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\bin\Debug\MidtermModule.exe
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\bin\Debug\MidtermModule.pdb
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\bin\Debug\MidtermModule.xml
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MainWindow.baml
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MainWindow.g.vb
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\Application.g.vb
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MidtermModule_MarkupCompile.cache
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MidtermModule.g.resources
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MidtermModule.Resources.resources
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MidtermModule.vbproj.GenerateResource.Cache
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MidtermModule.exe
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MidtermModule.xml
+C:\Users\frank\AppData\Local\Temporary Projects\MidtermModule\obj\x86\Debug\MidtermModule.pdb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MidtermModule.exe
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MidtermModule.xml
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MidtermModule.pdb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\bin\Debug\MidtermModule.exe
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\bin\Debug\MidtermModule.pdb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\bin\Debug\MidtermModule.xml
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MainWindow.baml
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MainWindow.g.vb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\Application.g.vb
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MidtermModule_MarkupCompile.cache
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MidtermModule.g.resources
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MidtermModule.Resources.resources
+C:\Users\frank\Documents\Visual Studio 2010\Projects\MidtermModule\MidtermModule\obj\x86\Debug\MidtermModule.vbproj.GenerateResource.Cache
